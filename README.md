@@ -1,2 +1,2 @@
 # anchorpoint
-AJAX CRUD APP using PHP MySQLi  
+AJAX CRUD APP using PHP core
