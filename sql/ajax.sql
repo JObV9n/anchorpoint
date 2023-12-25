@@ -70,7 +70,7 @@ CREATE TABLE `tb_user` (
 
 INSERT INTO `tb_user` (`id`, `name`, `username`, `password`) VALUES
 (4, 'admin', 'admin', '123'),
-(5, 'Olivia Elijah', 'oelijah', '1234561'),
+(5, 'Olivia', 'olivia', '1234561'),
 (6, 'Daniel', 'daniel88', '15243'),
 (7, 'sachin', 'sachin', 'sachin');
 
